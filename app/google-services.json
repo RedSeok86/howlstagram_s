@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003949674324",
+    "firebase_url": "https://central-diode-245605.firebaseio.com",
+    "project_id": "central-diode-245605",
+    "storage_bucket": "central-diode-245605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003949674324:android:2588cde57474cc874b82c1",
+        "android_client_info": {
+          "package_name": "com.frago.howlstagran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003949674324-l6s9n5942a08tav11tiimfnsogcm61qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMi2TYQT6Z0pAOkTSGRd0djK3v7vOeYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003949674324-l6s9n5942a08tav11tiimfnsogcm61qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
